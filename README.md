@@ -7,7 +7,7 @@ Completed projects:
 * Insertion sort
 * Sieve of Eratosthenes
 
-Future projects;
+Future projects:
 * Function graphing
 * Dijkstra's algorithm
 * Selection sort 
