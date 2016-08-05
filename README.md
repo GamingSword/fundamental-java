@@ -2,8 +2,8 @@
 A private repository to hold different projects I am currently working on.
 
 Completed projects:
-* Hello world
-* User input w/ scanner
+* Output
+* Input
 * Insertion sort
 * Sieve of Eratosthenes
 
