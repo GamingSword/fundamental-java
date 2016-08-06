@@ -1,5 +1,5 @@
-# personal-projects
-A private repository to hold different projects I am currently working on.
+# fundamental-java
+A private repository to hold different Java related projects.
 
 Completed projects:
 * Output
