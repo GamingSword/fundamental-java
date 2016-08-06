@@ -10,7 +10,7 @@ public class Solution {
         int b;
         if (r > a) {
             b = a;
-            a = r;;
+            a = r;
             r = b;
         }
         while (r != 0) {
